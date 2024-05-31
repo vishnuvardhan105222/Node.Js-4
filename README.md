@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cricket Team
 
 Given two files `app.js` and a database file `cricketTeam.db` consisting a table `cricket_team`.
@@ -133,3 +134,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# Node.Js-4
+Node.js Coding Practice 5 [CRICKET TEAM]
+>>>>>>> dd3f6592dc244a6b01fa802939ef3e963c389cd8
